@@ -1,4 +1,4 @@
 # gits
 git commands etc
 <br>
-Author: Mahika Wakankar
+Author: Mahika Wakankar (practice)
